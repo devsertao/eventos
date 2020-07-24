@@ -1,4 +1,4 @@
-# :fire:Meetups
+# :fire:Eventos
 
 ### Lista de eventos do coletivo DevSertão
 
