@@ -1,5 +1,7 @@
 # :fire:Eventos
 
+Tem uma sugestão de tema ou quer propor alguma coisa? Sinta-se livre para abrir uma issue e nos contar sua ideia! :smile:
+
 ### Lista de eventos do coletivo DevSertão
 
 #### DevSertão #01
