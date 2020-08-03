@@ -5,8 +5,8 @@ Tem uma sugestão de tema ou quer propor alguma coisa? Sinta-se livre para abrir
 ### Lista de eventos do coletivo DevSertão
 
 #### DevSertão #01 (em [discussão](https://github.com/devsertao/eventos/issues/1))
-  * :page_with_curl: **Tema:** O que o mercado espera de nós e o que esperamos do mercado;
+  * :page_with_curl: **Tema:** O mercado de trabalho Dev aqui no Vale e pelo Brasil afora;
   * :pushpin: **Formato:** Mesa de bar;
-  * :calendar: **Data:** à definir;
-  * :link: **Link da stream:** em breve;
+  * :calendar: **Data:** 14/08/2020 19:30h;
+  * :link: **Link da stream:** https://www.youtube.com/watch?v=Iu9h-AERb_I;
   
