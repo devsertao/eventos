@@ -4,6 +4,12 @@ Tem uma sugestão de tema ou quer propor alguma coisa? Sinta-se livre para abrir
 
 ### Lista de eventos do coletivo DevSertão
 
+#### HacktoberPest 2020 (Em Discussão)
+
+- :pushpin: **Formato:** Meetup;
+- :calendar: **Data:** 03/10/2020 18:00h - 21:30h;
+- :busts_in_silhouette: **[Agenda](https://github.com/devsertao/eventos/issues/4#issuecomment-680307970);**
+
 #### DevSertão #02
 
 - :page_with_curl: **Tema:** Desafio e experiências que o trabalho/estudo em tecnologia reserva para mulheres;
