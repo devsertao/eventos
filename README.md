@@ -8,7 +8,8 @@ Tem uma sugestão de tema ou quer propor alguma coisa? Sinta-se livre para abrir
 
 - :pushpin: **Formato:** Meetup;
 - :calendar: **Data:** 03/10/2020 18:00h - 21:30h;
-- :busts_in_silhouette: **[Agenda](https://github.com/devsertao/eventos/issues/4#issuecomment-680307970);**
+- :busts_in_silhouette: **[Agenda](https://github.com/devsertao/eventos/issues/4#issuecomment-689138163);**
+- :link: **[Link para inscrição](https://organize.mlh.io/participants/events/4097-hacktoberpest-online-2020);**
 
 #### DevSertão #02
 
