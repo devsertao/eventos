@@ -10,7 +10,7 @@ Tem uma sugestão de tema ou quer propor alguma coisa? Sinta-se livre para abrir
 - :pushpin: **Formato:** Mesa de bar (Conversa Informal);
 - :calendar: **Data:** 16/10/2020 19:30h;
 - :octocat: **Guilda:** [Pesquisa](https://github.com/devsertao/pesquisa-guilda)
-- :link: **em breve;**
+- :link: **Link da stream:** em breve;
 - :busts_in_silhouette: **Participantes:**
   - Ahirton Lopes (FIAP);
   - Rodrigo Ramos (UNIVASF);
