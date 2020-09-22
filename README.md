@@ -4,9 +4,20 @@ Tem uma sugestão de tema ou quer propor alguma coisa? Sinta-se livre para abrir
 
 ### Lista de eventos do coletivo DevSertão
 
-#### HacktoberPest 2020 (Em Discussão)
+#### DevSertão #03
 
-- :pushpin: **Formato:** Meetup;
+- :page_with_curl: **Tema:** Carreira de Pesquida: Qual caminho seguir?;
+- :pushpin: **Formato:** Mesa de bar (Conversa Informal);
+- :calendar: **Data:** 16/10/2020 19:30h;
+- :link: **em breve;**
+- :busts_in_silhouette: **Participantes:**
+  - Ahirton Lopes (FIAP);
+  - Rodrigo Ramos (UNIVASF);
+- :mag_right: **[Mais Detalhes](https://github.com/devsertao/pesquisa-guilda/issues/1#issue-698640398)**
+
+#### HacktoberPest 2020
+
+- :pushpin: **Formato:** Meetup Online para até 50 participantes;
 - :calendar: **Data:** 03/10/2020 18:00h - 21:30h;
 - :busts_in_silhouette: **[Agenda](https://github.com/devsertao/eventos/issues/4#issuecomment-680307970);**
 
