@@ -6,13 +6,16 @@ Tem uma sugestão de tema ou quer propor alguma coisa? Sinta-se livre para abrir
 
 #### DevSertão #03
 
-- :page_with_curl: **Tema:** Carreira de Pesquida: Qual caminho seguir?;
+- :page_with_curl: **Tema:** Carreira de Pesquisa: Qual caminho seguir?;
 - :pushpin: **Formato:** Mesa de bar (Conversa Informal);
 - :calendar: **Data:** 16/10/2020 19:30h;
+- :octocat: **Guilda:** [Pesquisa](https://github.com/devsertao/pesquisa-guilda)
 - :link: **em breve;**
 - :busts_in_silhouette: **Participantes:**
   - Ahirton Lopes (FIAP);
   - Rodrigo Ramos (UNIVASF);
+  - Victor Gustavo;
+  - Delmiro Daladier;
 - :mag_right: **[Mais Detalhes](https://github.com/devsertao/pesquisa-guilda/issues/1#issue-698640398)**
 
 #### HacktoberPest 2020
