@@ -2,7 +2,7 @@
 
 Tem uma sugestão de tema ou quer propor alguma coisa? Sinta-se livre para abrir uma issue e nos contar sua ideia! :smile:
 
-#### Veja a [:calendar: Agenda](https://calendar.google.com/calendar/embed?src=devsertao.oficial%40gmail.com&ctz=America%2FSao_Paulo)
+#### Veja a [Agenda :calendar:](https://calendar.google.com/calendar/embed?src=devsertao.oficial%40gmail.com&ctz=America%2FSao_Paulo)
 
 ### Lista de eventos do coletivo DevSertão
 
