@@ -16,6 +16,7 @@ Tem uma sugestão de tema ou quer propor alguma coisa? Sinta-se livre para abrir
 - :busts_in_silhouette: **Participantes:**
   - Ahirton Lopes (FIAP);
   - Rodrigo Ramos (UNIVASF);
+  - Jesse Nery (IF baiano);
   - Victor Gustavo;
   - Delmiro Daladier;
 - :mag_right: **[Mais Detalhes](https://github.com/devsertao/pesquisa-guilda/issues/1#issue-698640398)**
