@@ -6,13 +6,28 @@ Tem uma sugestão de tema ou quer propor alguma coisa? Sinta-se livre para abrir
 
 ### Lista de eventos do coletivo DevSertão
 
+#### DevSertão #04
+
+- :page_with_curl: **Tema:** Desafios e experiências da jornada para trabalhar fora do Brasil;
+- :pushpin: **Formato:** Mesa de bar (Conversa Informal);
+- :calendar: **Data:** 14/11/2020 15:00h;
+- :link: **Link da stream:** https://www.youtube.com/watch?v=Y-v8R8GdoZk
+- :busts_in_silhouette: **Participantes:**
+  - Bruno Sampaio;
+  - Delmiro Daladier;
+  - João Cadidé;
+  - Marlon Rocha;
+  - Sergio Soares;
+  - Thiago Bonfim;
+- :mag_right: **[Mais Detalhes](https://github.com/devsertao/eventos/issues/8)**
+
 #### DevSertão #03
 
 - :page_with_curl: **Tema:** Carreira de Pesquisa: Qual caminho seguir?;
 - :pushpin: **Formato:** Mesa de bar (Conversa Informal);
 - :calendar: **Data:** 16/10/2020 19:30h;
 - :octocat: **Guilda:** [Pesquisa](https://github.com/devsertao/pesquisa-guilda)
-- :link: **Link da stream:** em breve;
+- :link: **Link da stream:** https://www.youtube.com/watch?v=nfoTZQsR7tg;
 - :busts_in_silhouette: **Participantes:**
   - Ahirton Lopes (FIAP);
   - Rodrigo Ramos (UNIVASF);
