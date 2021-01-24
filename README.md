@@ -6,6 +6,20 @@ Tem uma sugestão de tema ou quer propor alguma coisa? Sinta-se livre para abrir
 
 ### Lista de eventos do coletivo DevSertão
 
+#### DevSertão #05
+
+- :page_with_curl: **Tema:** Quality Assurance - Profissionais, Formação, Mercado, Atuação e muito mais...
+- :pushpin: **Formato:** Mesa de bar (Conversa Informal);
+- :calendar: **Data:** 29/01/2021 19:00h;
+- :link: **Link da stream:** https://youtu.be/RcS75O_Ip1U
+- :busts_in_silhouette: **Participantes:**
+  - Marlon Rocha;
+  - Gabriel Gomes;
+  - Glyciane Silva;
+  - Vitor Oliveira;
+  - Murilo Ferreira;
+- :mag_right: **[Mais Detalhes](https://github.com/devsertao/eventos/issues/10)**
+
 #### DevSertão #04
 
 - :page_with_curl: **Tema:** Desafios e experiências da jornada para trabalhar fora do Brasil;
