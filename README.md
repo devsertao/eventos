@@ -6,6 +6,13 @@ Tem uma sugestão de tema ou quer propor alguma coisa? Sinta-se livre para abrir
 
 ### Lista de eventos do coletivo DevSertão
 
+#### HacktoberPest 2021
+
+- :pushpin: **Formato:** Meetup Online para até 80 participantes;
+- :calendar: **Data:** 09/10/2021 19:00h - 21:00h;
+- :link: **[Link para inscrição](https://www.sympla.com.br/hacktoberpest-online-2021__1360187);**
+- 🎥 **[Link para a gragação](https://www.youtube.com/watch?v=PWD0MCRIXiA).**
+
 #### DevSertão #05
 
 - :page_with_curl: **Tema:** Quality Assurance - Profissionais, Formação, Mercado, Atuação e muito mais...
